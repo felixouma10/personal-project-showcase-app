@@ -3,8 +3,8 @@ import { UserContext } from "./UserContext";
 
 function UserProvider({ children }) {
   const [user, setUser] = useState({
-    name: "Felix",
-    title: "Full Stack Developer",
+    name: "Felix Ouma",
+    title: "Software Engineering Student",
     avatar: "/avatar.png",
   });
 
