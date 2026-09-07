@@ -1,0 +1,86 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Felix Ouma",
+    "title": "Software Enginering Student",
+    "bio": "I am a software engineering student at Moringa School.",
+    "avatar": "/avatar.png"
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "Single Page Application - Wordly",
+      "description": "A single-page application that allows users to search for words and view their definitions, synonyms, and antonyms.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/57/5e/f0575e52-a4ea-958c-c899-6421b611f33c/Placeholder.mill/400x400bb-75.webp",
+      "githubUrl": "https://github.com/felixouma10/SPA-Wordly",
+      "liveUrl": "https://felixouma10.github.io/SPA-Wordly/",
+      "category": "Web Application",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "E-Commerce Store",
+      "description": "An online shopping application where users can browse products and manage their shopping cart.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
+      "image": "https://cdn.dribbble.com/userupload/48390825/file/f1dcc9f38783aebb1c6689999561e289.jpg?resize=1504x1128&vertical=center",
+      "githubUrl": "https://github.com/felixouma10/aristocbooklex",
+      "liveUrl": "https://aristocbooklex.com/",
+      "category": "E-Commerce",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Task Management App",
+      "description": "A productivity application for creating, managing, and tracking daily tasks.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Tailwind CSS"
+      ],
+      "image": "https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_960/https%3A%2F%2Fwww.todoist.com%2F_astro%2Fheaderui.en.Cz2t5aii.png",
+      "githubUrl": "https://github.com/felixouma10/task-manager",
+      "liveUrl": "https://www.todoist.com/",
+      "category": "Productivity",
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Weather Dashboard",
+      "description": "A weather dashboard that allows users to search for locations and view weather information.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "API"
+      ],
+      "image": "https://cdn.dribbble.com/userupload/3271871/file/original-3860cbdbfb333c4132d34353d29f3b12.jpg?resize=1504x1128&vertical=center",
+      "githubUrl": "https://github.com/felixouma10/weather-dashboard",
+      "liveUrl": "https://felixouma10.github.io/weather-dashboard/",
+      "category": "Dashboard",
+      "featured": false
+    },
+    {
+      "id": "5",
+      "title": "Quiz App",
+      "description": "An interactive quiz application that allows students to answer questions and receive immediate feedback.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Tailwind CSS"
+      ],
+      "image": "https://images.prismic.io/quizlet-web/-gIyHFO_YktNuHtW_03Flashcards%402x.png?auto=format,compress",
+      "githubUrl": "https://github.com/felixouma10/quiz-app",
+      "liveUrl": "https://felixouma10.github.io/quiz-app/",
+      "category": "Education",
+      "featured": true
+    }
+  ]
+}
